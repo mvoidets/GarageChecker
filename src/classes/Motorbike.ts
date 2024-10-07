@@ -42,11 +42,12 @@ constructor(
 } 
   // TODO: Implement the wheelie method
     // TODO: The method should log the message "Motorbike [make] [model] is doing a wheelie!"
-//  if (wheelie(vehicle: Motorbike): void {
+  if (wheelie(vehicle: Motorbike): void {
+        if (this.wheels) <= 2 {
 
-
-//     console.log("Motorbike ${vehicle.make} ${vehicle.model }is doing a wheelie!")
-//  }
+      console.log("Motorbike ${vehicle.make} ${vehicle.model }is doing a wheelie!")
+  }}
+  
     // TODO: Override the printDetails method from the Vehicle class
   override printDetails(): void {
     // Call the printDetails method of the parent class, Vehicle

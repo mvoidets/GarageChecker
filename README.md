@@ -25,19 +25,19 @@
   ## Install/Run
 
     npm start
-![alt text](docs/start_app.png)
+![start app](./docs/start_app.png)
 
     Select your options, this displays New vehicle
 
-![alt text](new_vehicle.png)
+![add new vehicle](./docs/new_vehicle.png)
 
     Once you enter your new vehicle inforation and select Show existing you can see it with the others.
 
-![alt text](vehicle_added.png)
+![display info](./docs/select_vehicle.png)
 
     You can keep selecting options until you are done, then select Exit.
 
- ![alt text](exit.png)
+ ![exit](./docs/exit.png)
 
     Check out this video to see how it works!
 
